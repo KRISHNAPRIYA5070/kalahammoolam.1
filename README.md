@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/ac21117c-55fc-405b-b977-76617100c6cb" />
+
 # Kalaham Moolam 🎯
 
 ## Basic Details
