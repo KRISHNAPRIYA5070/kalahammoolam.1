@@ -7,7 +7,7 @@
 - **Member 1:** KRISHNAPRIYA V S - VISWAJYOTHI COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 **Hosted Project Link:**
-https://krishnapriya5070.github.io/kalahammoolam.1/
+https://github.com/KRISHNAPRIYA5070/kalahammoolam001
 
 ## Project Description
 Kalaham Moolam is a premium, interactive debate simulation where you challenge an AI designed to be the ultimate contrarian. No matter your stance, the AI uses sophisticated rhetorical tactics to maintain dominance and "win" the debate.
